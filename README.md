@@ -3,11 +3,11 @@ Meu nome é Cristiane Xaxier
 
 
 -Estou estudando a Alura
--Estou me desenvolvendo na linvguagem JavaScript
--Utilizo esse espaço para minha oraganizaçã e compartilhamnto dos meus projetos desenvolvidos
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha oraganização e compartilhamento dos meus projetos desenvolvidos
 
-### Você entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 
-cristianexavier@rof.educacao.sp.gov.br
+cristianexavier@prof.educacao.sp.gov.br
 
 
